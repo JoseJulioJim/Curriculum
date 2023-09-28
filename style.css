@@ -1,0 +1,24 @@
+html{
+    font-size: 24px;
+}
+
+.bodycolor{
+    background-color: rgb(4, 41, 64);
+    color:rgb(159, 193, 49)
+}
+
+.tablecolor{
+    background-color: rgb(0, 92, 83);
+    color: rgb(219, 242, 39)
+}
+
+.dropdown{
+    font-size: 32px;
+    background-color: rgb(0, 92, 83);
+    color: rgb(219, 242, 39)
+}
+
+.hrstyle{
+    border: 10px solid rgb(214, 213, 142) ;
+    border-radius: 10px;
+}
